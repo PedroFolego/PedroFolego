@@ -1,6 +1,13 @@
-### Olá pessoas de todas as regiões!
+### Olá pessoas!
 
-Me chamo Pedro e tenho 24 anos. Sou estudante da Trybe, uma escola pelo qual sou apaixonado. Já que nela aprendi muito do que sei sobre desenvolvimento Web Full Stack. 
+Me chamo <b>Pedro Henrique</b> moro em São Paulo, Brasil. Sou estudante da Trybe, uma escola pelo qual sou apaixonado. Já que nela aprendi muito do que sei sobre desenvolvimento Full Stack.
+
+<br>
+<b>Linguagens e ferramentas: </b>
+
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFolego&show_icons=true&theme=dracula)
 
