@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there
+
+<a href="https://www.linkedin.com/in/pedro-henrique-folego/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFolego&show_icons=true&theme=dracula)
+
 
 <!--
 **PedroFolego/PedroFolego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
