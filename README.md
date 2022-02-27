@@ -1,6 +1,6 @@
 ### Olá pessoas!
 
-Me chamo <b>Pedro Henrique</b> moro em São Paulo, Brasil. Sou estudante da Trybe, uma escola pelo qual sou apaixonado. Já que nela aprendi muito do que sei sobre desenvolvimento Full Stack.
+Me chamo <b>Pedro Henrique</b> moro em São Paulo, Brasil. Sou estudante da Trybe, uma escola pelo qual sou apaixonado. Já que nela aprendi muito do que sei sobre desenvolvimento Web Full Stack.
 
 <br>
 <b>Linguagens e ferramentas: </b>
