@@ -14,8 +14,6 @@ Me chamo <b>Pedro Henrique</b> moro em São Paulo, Brasil. Sou estudante da Tryb
 <a href="https://www.linkedin.com/in/pedro-henrique-folego/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
-**PedroFolego/PedroFolego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
