@@ -1,10 +1,20 @@
-### Olá devs!
+## Olá devs!
 
 Me chamo <b>Pedro Henrique</b> moro em São Paulo, Brasil. <p/>
-Sou estudante da Trybe, uma escola pelo qual sou apaixonado. Já que nela aprendi muito do que sei sobre desenvolvimento Web Full Stack.
+Atualmente estudo na Trybe, uma escola que me ensina muito sobre desenvolvimento Web Full Stack.
 
+<br/>
 
-   
+**Meus interesses pessoais:**
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400px" />
+
+- 👨🏽‍💻 Recentemente criei minha primeiro API usando TypeScript e adorei a linguagem;
+- 🌱 Meus hobbies são meditação, leitura, exposições e jogos online;
+- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
+- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+- 📫 Por favor, envie um email para **hmfpedro@hotmail.com** para me encontrar.
+
 <br/>
 
 ## GitHub Stats
@@ -44,4 +54,7 @@ Sou estudante da Trybe, uma escola pelo qual sou apaixonado. Já que nela aprend
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg">
 </div>
-   
+
+ <br/>
+
+⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
