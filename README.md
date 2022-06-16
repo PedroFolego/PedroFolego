@@ -56,5 +56,3 @@ Atualmente estudo na Trybe, uma escola que me ensina muito sobre desenvolvimento
 </div>
 
  <br/>
-
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
