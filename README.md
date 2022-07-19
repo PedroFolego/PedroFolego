@@ -22,7 +22,7 @@ Atualmente estudo na Trybe, uma escola que me ensina muito sobre desenvolvimento
 
 <tr><td>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroFolego&show_icons=true&theme=dracula" />
   </a>
 
