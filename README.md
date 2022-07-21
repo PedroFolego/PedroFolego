@@ -18,6 +18,7 @@ Atualmente estudo na Trybe, uma escola que me ensina muito sobre desenvolvimento
 <br/>
 
 ## GitHub Stats
+
 <table>
 
 <tr><td>
