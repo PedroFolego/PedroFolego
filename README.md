@@ -34,6 +34,7 @@ Atualmente estudo na Trybe, uma escola que me ensina muito sobre desenvolvimento
   </a>
 
 </td></tr>
+  
 </table>
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
