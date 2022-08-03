@@ -20,7 +20,6 @@ Atualmente estudo na Trybe, uma escola que me ensina muito sobre desenvolvimento
 ## GitHub Stats
 
 <table>
-
 <tr><td>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank"> 
