@@ -9,7 +9,7 @@ Atualmente estudo na Trybe, uma escola que me ensina muito sobre desenvolvimento
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400px" />
 
-- 👨🏽‍💻 Recentemente criei minha primeira API usando TypeScript e adorei a linguagem;
+- 👨🏽‍💻 Recentemente comecei a aprender C# e estou adorando a linguagem;
 - 🌱 Meus hobbies são meditação, leitura, exposições e jogos online;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
