@@ -6,7 +6,7 @@ Atualmente estudo na Trybe, uma escola que me ensina muito sobre desenvolvimento
 <br/>
 
 **Meus interesses pessoais:**
-
+ 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400px" />
 
 - 👨🏽‍💻 Recentemente comecei a aprender C# e estou adorando a linguagem;
