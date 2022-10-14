@@ -1,7 +1,6 @@
 ## Olá devs!
 
 Me chamo <b>Pedro Henrique</b> moro em São Paulo, Brasil. <p/>
-Atualmente estudo na Trybe, uma escola que me ensina muito sobre desenvolvimento Web Full Stack.
 
 <br/>
 
@@ -11,7 +10,7 @@ Atualmente estudo na Trybe, uma escola que me ensina muito sobre desenvolvimento
 
 - 👨🏽‍💻 Recentemente comecei a aprender C# e estou adorando a linguagem;
 - 🌱 Meus hobbies são meditação, leitura, exposições e jogos online;
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
+- 💼 Atualmente sou desenvolvedor Full-Stack na <a href="doc:introduction" target="_blank">Anfiko</a>
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para **hmfpedro@hotmail.com** para me encontrar.
 
